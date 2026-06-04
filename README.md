@@ -2,16 +2,16 @@
 i don't own the shadders, (i guess i take them from [here](https://github.com/crosire/reshade-shaders))
 
 **shadder nostalgia (for comparassion, no shadder)**
-`![](shadder%20nostalgia%20(for%20comparassion,%20no%20shadder).png)`
+![](shadder%20nostalgia%20(for%20comparassion,%20no%20shadder).png)
 
 **shadder nostalgia (scanlines and nes colors - original shadder)**
-`![](shadder%20nostalgia%20(scanlines%20and%20nes%20colors%20-%20original%20shadder).png)`
+![](shadder%20nostalgia%20(scanlines%20and%20nes%20colors%20-%20original%20shadder).png)
 
 **shadder nostalgia (scanlines and no nes colors - fix)**
-`![](shadder%20nostalgia%20(scanlines%20and%20no%20nes%20colors%20-%20fix).png)`
+![](shadder%20nostalgia%20(scanlines%20and%20no%20nes%20colors%20-%20fix).png)
 
 **shadder crt (bad native scanlines, don't use it)**
-`![](shadder%20crt%20(bad%20native%20scanlines,%20don't%20use%20it).png)`
+![](shadder%20crt%20(bad%20native%20scanlines,%20don't%20use%20it).png)
 
 ---
 
