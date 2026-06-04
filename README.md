@@ -1,5 +1,7 @@
-# Mother-encore-game---shadders-for-Linux-with-instructions (vibe code alert lol)
+# Mother-encore-game---shadders-for-Linux-with-instructions+save+game+for+act2 
 i don't own the shadders, (i guess i take them from [here](https://github.com/crosire/reshade-shaders))
+
+##  UPDATED: save game for act 2
 
 **shadder nostalgia (for comparassion, no shadder)**
 ![](shadder%20nostalgia%20(for%20comparassion,%20no%20shadder).png)
@@ -13,10 +15,13 @@ i don't own the shadders, (i guess i take them from [here](https://github.com/cr
 **shadder crt (bad native scanlines, don't use it)**
 ![](shadder%20crt%20(bad%20native%20scanlines,%20don't%20use%20it).png)
 
+
 ---
 
 
-# Instructions in portuguese instructions: Mother Encore 4.0.1 Linux + filtro CRT/Nostalgia via gamescope
+# Instructions in portuguese (vibe code alert lol)
+
+## instructions: Mother Encore 4.0.1 Linux + filtro CRT/Nostalgia via gamescope
 
 Criado por Rafa Coringa 2026-06-04 + IA copilot 5.5 deep think por vibe code rsrs
 Bota tudo na pasta /home/rafa/Games que é sucesso
